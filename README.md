@@ -47,4 +47,4 @@ Just use the makefile:
 
 MORE INFO
 --------------------------------------------------
-* Please check the file  `project report.pdf` to view the code and know more about this project.
+* Please check the file  `project report.pdf` to know more about this project.
