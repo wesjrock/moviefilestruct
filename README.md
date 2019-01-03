@@ -2,7 +2,7 @@
 
 OVERVIEW
 --------------------------------------------------
-The purpose of this project was to implement an application in C language that can Add, Remove and Search within a Database for the [File Structure Organization] course. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
+The purpose of this project was to implement an application in C language that can List and Search within a Database for the [File Structure Organization] course. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
 
 PROJECT
 --------------------------------------------------
