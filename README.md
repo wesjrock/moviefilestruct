@@ -6,14 +6,14 @@ The purpose of this project was to implement an application in C language that c
 
 PROJECT
 --------------------------------------------------
-Basically there is a Tweet database with the following file organization strucutre:
+Basically there is a Film database with the following file organization strucutre:
 * fixed-length and variable-length fields with delimiters (in bytes)
 * variable-register size with delimiters (in bytes)
 
-You can List and Search movies within the database.
+You can List and Search films within the database.
 
 
-MOVIE FILE STRUCTURE
+FILE STRUCTURE
 --------------------------------------------------
 ```bash
 ID (Movie identification number - int)
