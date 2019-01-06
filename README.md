@@ -45,6 +45,13 @@ Just use the makefile:
 	make run
 ```
 
+CREDITS
+--------------------------------------------------
+- Gabriel Pinheiro de Carvalho
+- Jorge Luiz da Silva Vilaça
+- Raul Procopio
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 * Please check the file  `project report.pdf` to know more about this project.
